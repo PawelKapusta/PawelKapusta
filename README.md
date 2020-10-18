@@ -18,7 +18,7 @@ Furthermore, I'm passionate about software development :gem:. Open source fan! :
 
 <img src="https://user-images.githubusercontent.com/61249196/96372435-05b53f00-1167-11eb-9f5c-19000e5d22eb.png" >
 <img src="https://user-images.githubusercontent.com/61249196/96372394-de5e7200-1166-11eb-88d1-a8c1cb519bae.png" >
-<img src="https://user-images.githubusercontent.com/61249196/96372411-ecac8e00-1166-11eb-91a2-aa365e8b3870.png" >
+
 <img src="https://user-images.githubusercontent.com/61249196/96372421-f7672300-1166-11eb-9428-6fd65915deab.png" >
 
 
