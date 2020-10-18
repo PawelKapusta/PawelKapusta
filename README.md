@@ -27,8 +27,8 @@ Furthermore, I'm passionate about software development :gem:. Open source fan! :
 <img src="https://github-readme-stats.vercel.app/api?username=PawelKapusta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" src="https://user-images.githubusercontent.com/61249196/96376896-e4ae1780-1181-11eb-84f4-89b945e94215.png" />][linkedin]
-[<img align="left" alt="YouTube" src="https://user-images.githubusercontent.com/61249196/96376904-f55e8d80-1181-11eb-9cdd-dd750fd5f487.png"/>][youtube]
+[<img align="left" alt="LinkedIn" src="https://user-images.githubusercontent.com/61249196/96376975-63a35000-1182-11eb-827e-64c0848ae42e.png" />][linkedin]
+[<img align="left" alt="YouTube" src="https://user-images.githubusercontent.com/61249196/96376992-774eb680-1182-11eb-88e0-7db23921da9b.png"/>][youtube]
 
 [youtube]: https://www.youtube.com/channel/UCulp9rimI0x3rUUyDTgW0EQ/featured?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/pawe%C5%82-kapusta-816ab11a5/
