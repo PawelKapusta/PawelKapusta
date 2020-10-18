@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on React.js
 - 💬 Ask me about anything
-- :goal: 2020 Goals: Contribute more to Open Source projects
+- :goal_net: 2020 Goals: Contribute more to Open Source projects
 
 My name is Paweł Kapusta, currently I'm a 3rd year :computer: Computer Science :man_student: student at Jagiellonian University in Cracow :cityscape: , Poland.
 Furthermore, I'm passionate about software development :gem:. Open source fan! :fire:. In my spare time, I conscientiously solving problems on LeetCode :bulb:, ardenlty work out at gym and enjoymently play tenis :tennis: with friends. Life without :notes: music is like an error :exclamation:, exile :lock:. Indeed, music produces a kind of pleasure for me and it's dailiness :sun_with_face:.
