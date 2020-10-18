@@ -32,3 +32,6 @@ Furthermore, I'm passionate about software development :gem:. Open source fan! :
 
 [youtube]: https://www.youtube.com/channel/UCulp9rimI0x3rUUyDTgW0EQ/featured?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/pawe%C5%82-kapusta-816ab11a5/
+
+
+
