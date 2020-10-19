@@ -16,8 +16,7 @@ Furthermore, I'm passionate about software development :gem:. Open source fan! :
 <img src="https://user-images.githubusercontent.com/61249196/96372363-be2eb300-1166-11eb-9419-3b9b053eebad.png" >
 <img src="https://user-images.githubusercontent.com/61249196/96372631-03071980-1168-11eb-9587-d2af223de8da.png" >
 <img src="https://user-images.githubusercontent.com/61249196/96372620-f4206700-1167-11eb-8cd1-d29e78d6e9f7.png" >
-<img src="https://user-images.githubusercontent.com/61249196/96372644-174b1680-1168-11eb-98e0-ff97780c3a10.png" >
-<!--<img src="https://user-images.githubusercontent.com/61249196/96372663-25993280-1168-11eb-9ae2-33ad70189cd7.png" > -->
+<img src="https://user-images.githubusercontent.com/61249196/96372644-174b1680-1168-11eb-98e0-ff97780c3a10.png" > <!--<img src="https://user-images.githubusercontent.com/61249196/96372663-25993280-1168-11eb-9ae2-33ad70189cd7.png" > -->
 <img src="https://user-images.githubusercontent.com/61249196/96372435-05b53f00-1167-11eb-9f5c-19000e5d22eb.png" >
 <img src="https://user-images.githubusercontent.com/61249196/96372394-de5e7200-1166-11eb-88d1-a8c1cb519bae.png" >
 <img src="https://user-images.githubusercontent.com/61249196/96372421-f7672300-1166-11eb-9428-6fd65915deab.png" >
