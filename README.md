@@ -7,7 +7,7 @@
 - :goal_net: 2020 Goals: Contribute more to Open Source projects
 
 My name is Paweł Kapusta, currently I'm a 3rd year :computer: Computer Science :man_student: student at Jagiellonian University in Cracow :cityscape: , Poland.
-Furthermore, I'm passionate about software development :gem:. Open source fan! :fire:. In my spare time, I conscientiously solving problems on LeetCode :bulb:, ardenlty work out at gym and enjoymently play tenis :tennis: with friends. Life without :notes: music is like an error :exclamation:, exile :lock:. Indeed, music produces a kind of pleasure for me and it's dailiness :sun_with_face:.
+Furthermore, I'm passionate about software development :gem:. Open source fan! :fire:. In my spare time, I conscientiously solving problems on LeetCode :bulb:, ardently work out at gym and enjoymently play tenis :tennis: with friends. Life without :notes: music is like an error :exclamation:, exile :lock:. Indeed, music produces a kind of pleasure for me and it's dailiness :sun_with_face:.
 
 <b>Languages and tools</b><br>
 <img src="https://user-images.githubusercontent.com/61249196/96372155-f08be080-1165-11eb-9d97-ec09a05c16b7.png" >
