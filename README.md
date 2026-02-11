@@ -21,9 +21,9 @@ I've organized these into categories for clarity. Each badge links to the tool's
 | | | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | |
 
 ### Featured Projects
-- **SplitDivision** (Master's Thesis, 2023): Expense-sharing app with crypto support, stats, and Stripe payments. Microservices architecture (frontend on Vercel, API gateway + 5 microservices on Render). Tech: Next.js/React/TS, Node.js/Express, MySQL/Sequelize. Earned 5/5. [GitHub/Repo if public]
-- **Mind Healer AI Platform** (TechJump Mentorship, 202X): AI mental health tracker with mood analysis and recommendations. Backend developed under mentor guidance (code reviews, architecture checks). Deployed on Vercel/Render. Tech: NestJS, Prisma/PostgreSQL, JWT, Docker. Link: https://mind-healer-ai-frontend.vercel.app.
-- **Video Summary** (10xdevs.pl Certification, 202X): AI YouTube summarizer with daily automation and dashboard. Live on https://videosummary.org/. Tech: Astro/React/TS, Cloudflare Functions, Supabase, OpenRouter API.
+- **Video Summary** (10xdevs.pl Certification, 2026): AI YouTube summarizer with daily automation and dashboard. Live on https://videosummary.org/. Tech: Astro/React/TS, Cloudflare Functions, Supabase, OpenRouter API.
+- **Mind Healer AI Platform** (TechJump Mentorship, 2025/2026): AI mental health tracker with mood analysis and recommendations. Backend developed under mentor guidance (code reviews, architecture checks). Deployed on Vercel/Render. Tech: NestJS, Prisma/PostgreSQL, JWT, Docker. Link: https://mind-healer-ai-frontend.vercel.app.
+- **SplitDivision** (Master's Thesis, 2023): Expense-sharing app with crypto support, stats, and Stripe payments. Microservices architecture (frontend on Vercel, API gateway + 5 microservices on Render). Tech: Next.js/React/TS, Node.js/Express, MySQL/Sequelize. Earned 5/5. Link: https://split-division-master-frontend.vercel.app/
 
 ### Certifications
 - (NOT YET) 10xdevs2 Bootcamp (2026): AI-first dev workflows.
