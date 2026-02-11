@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AI-driven web apps or open-source fullstack projects.
 - 💬 Ask me about React/Node.js, AI projects, or agile practices (volunteered as Scrum Master for over a year).
 - 🎯 2026 Goals: Contribute to open-source AI tools and mentor juniors in fullstack dev.
-- ⚡ Fun fact: Life without music is like an error – I love playing tennis 🎾 and solving LeetCode problems in my spare time!
+- ⚡ Fun fact: Life without music is like an error – I love playing squash and running in my spare time!
 
 My name is Paweł Kapusta. I'm a Mid Software Engineer with 4+ years of fullstack experience, specializing in JavaScript/TypeScript and AI innovations. Previously a Computer Science graduate from Jagiellonian University in Cracow, Poland, where I was active in the SKIS research club (game development). Passionate about building scalable apps and exploring AI for real-world impact. Open source enthusiast! 🔥
 
